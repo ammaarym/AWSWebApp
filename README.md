@@ -3,7 +3,7 @@
 # Power of Math Calculator Documentation
 
 ## Link to Tool
-https://dev.dul393waikcxb.amplifyapp.com/
+[Power of Math Calculator](https://dev.dul393waikcxb.amplifyapp.com/)
 
 ## Introduction
 
