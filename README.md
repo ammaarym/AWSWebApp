@@ -2,6 +2,9 @@
 
 # Power of Math Calculator Documentation
 
+## Link to Tool
+https://dev.dul393waikcxb.amplifyapp.com/
+
 ## Introduction
 
 The Power of Math Calculator is a sleek and intuitive web application designed to perform exponentiation calculations. With a contemporary and user-friendly interface, users can effortlessly calculate the result of raising a base number to the power of an exponent.
